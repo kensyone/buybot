@@ -8,14 +8,14 @@ Are you looking for a **custom BuyBot** for your token? I can build a **fully au
 - **Seamless Integration** – Works smoothly with Telegram groups.  
 - **Fast & Reliable** – Optimized for speed and accuracy.  
 - **Support for Multiple Chains** – EVM-compatible networks (Ethereum, BSC, Polygon, etc.).  
-- **Branding & Customization** – Your bot's name and profile picture, your choice of emojis and GIFs, and official project links.
+- **Branding & Customization** – Your bot's name and profile picture, your choice of emojis and GIFs, official project links, etc.
 
 ## 📌 Why Choose My BuyBot?  
 ✅ **Experience** – Proven track record of building working BuyBots.  
 ✅ **Customizable** – Fully tailored to your needs.  
 ✅ **Affordable & Fast Delivery** – Get your bot live quickly!  
 
-## 🖼️ Examples of Working BuyBots  
+## 🖼️ Examples of Working BuyBot
 ![BuyBot Example](images/buybot-example.jpg)
  
 
