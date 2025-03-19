@@ -16,7 +16,7 @@ Are you looking for a **custom BuyBot** for your token? I can build a **fully au
 ✅ **Affordable & Fast Delivery** – Get your bot live quickly!  
 
 ## 🖼️ Examples of Working BuyBots  
-![BuyBot Example](images/buybot-example.png)
+![BuyBot Example](images/buybot-example.jpg)
  
 
 ## 📩 Get Your BuyBot Today!  
